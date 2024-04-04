@@ -16,6 +16,12 @@ For the API, see [this repository](https://github.com/BCDigSchol/jesuit-catalogs
 
 ## Project Credits
 
+### Founding Partners
+
+* [Archivum Romanum Societatis Iesu](https://arsi.jesuits.global/en/home-eng/)
+* [Institute for Advanced Jesuit Studies, Boston College](https://www.bc.edu/bc-web/centers/iajs.html)
+* [Boston College Libraries](https://ds.bc.edu/)
+
 ### Project Editors (IAJS)
 
 * Cristiano Casalini
