@@ -1,5 +1,6 @@
 [{
     "id": "1",
+    "title": "Test Location",
     "assistency": "Test Assistency",
     "province": "Test Province",
     "city": "Test City",
