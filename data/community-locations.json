@@ -1,0 +1,10 @@
+[{
+    "id": "1",
+    "assistency": "Test Assistency",
+    "province": "Test Province",
+    "city": "Test City",
+    "latitude": 1,
+    "longitude": 1,
+    "certainty": "Approximate",
+    "notes": ""
+}]
