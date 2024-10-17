@@ -6,6 +6,6 @@
     "city": "Test City",
     "latitude": 1,
     "longitude": 1,
-    "certainty": "Approximate",
+    "isPrecise": false,
     "notes": ""
 }]
