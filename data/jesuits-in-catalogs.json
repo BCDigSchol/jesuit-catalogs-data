@@ -8,7 +8,10 @@
     "day": 1,
     "age": "35",
     "healthState": "Good",
+    "healthStateExpanded": "Very Good",
     "entryKey": 2025,
     "entryKeyAttributed": false,
+    "sourceId": 1,
+    "page": "1v",
     "notes": "Test Notes"
 }]
