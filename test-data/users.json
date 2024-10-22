@@ -1,0 +1,19 @@
+[{
+    "username": "testAdmin",
+    "password": "password",
+    "email": "admin@test.com",
+    "role": "Admin",
+    "theme": "light"
+}, {
+    "username": "testEditor",
+    "password": "password",
+    "email": "editor@test.com",
+    "role": "Editor",
+    "theme": "light"
+}, {
+    "username": "testUser",
+    "password": "password",
+    "email": "user@test.com",
+    "role": "User",
+    "theme": "light"
+}]

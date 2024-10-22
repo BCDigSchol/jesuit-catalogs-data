@@ -1,0 +1,12 @@
+[{
+    "id": 1,
+    "jesuitId": 1,
+    "eventLocationId": 1,
+    "title": "Some Fake Event",
+    "year": 1600,
+    "month": 1,
+    "day": 1,
+    "calculated": false,
+    "trustAsCanonical": true,
+    "note": ""
+}]
