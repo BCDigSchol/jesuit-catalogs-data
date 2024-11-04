@@ -1,6 +1,5 @@
 [{
     "id": 1,
-    "jesuitId": 1,
     "firstCatalogId": 1,
     "eventLocationId": 1,
     "title": "Some Fake Event",
